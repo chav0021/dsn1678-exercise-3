@@ -156,3 +156,11 @@ body {
 
   text-indent: 100%;
 }
+
+.sales__details {
+	display: none;
+}
+
+.sales__details[data-state="active"] {
+	display: block;
+}
