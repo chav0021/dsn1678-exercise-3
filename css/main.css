@@ -122,10 +122,6 @@ body {
 	}
 }
 
-
-
-
-
 .sales__details::before {
   top: -10px;
   content: " ";
