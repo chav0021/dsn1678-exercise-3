@@ -1,0 +1,5 @@
+/* CSS Document */
+
+.heading[data-state="active"] {
+	background-color: peru;
+}
